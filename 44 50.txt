@@ -1,0 +1,13 @@
+A Negro
+S Rojo
+D x2
+F Clear
+G Apuesta
+H Ultimo
+J Barra
+K Color
+L Muestra
+O ROJO
+P NEGRO
+
+asdasdasdmiravos@gmail.com tecnico1

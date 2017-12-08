@@ -1,0 +1,15 @@
+SetTimer Click, 50
+F1::Toggle1 := !Toggle1
+F2::Toggle := !Toggle
+
+Click:
+    If (!Toggle)
+        Return
+    Click down
+    If (!Toggle1)
+        Return
+    Click down right
+return
+
+
+

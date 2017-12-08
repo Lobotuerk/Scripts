@@ -1,0 +1,8 @@
+SetTimer Click, 50
+F7::Toggle := !Toggle
+
+Click:
+    If (!Toggle)
+        Return
+    Click
+return
